@@ -4,7 +4,7 @@
 News apps provide quick access to a variety of information. The ease of scrolling through the news on your smartphone is much better than buying a newspaper and cluttering up your bag or office desk. Furthermore, news apps help to save trees. A mobile application has many advantages for companies that publish news.
 
 # ScreenShot
-![WhatsApp Image 2024-06-22 at 15 39 02_cda0f234](https://github.com/CodingWithParas/NewsApp_with_flutter/assets/173163553/efaef64b-536e-4)
+![WhatsApp Image 2024-06-22 at 15 39 02_cda0f234](https://github.com/CodingWithParas/NewsApp_with_flutter/assets/173163553/efaef64b-536e-4
 
 ![WhatsApp Image 2024-06-22 at 14 39 25_5ef01cf0](https://github.com/CodingWithParas/NewsApp_with_flutter/assets/173163553/7e975e09-0d59-4ec9-86bf-3795edaafd17)
 eaf-88e0-d216bb0cf954)
